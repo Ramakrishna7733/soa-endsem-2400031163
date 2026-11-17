@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# Eclipse files
+.metadata/
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Logs
+*.log
